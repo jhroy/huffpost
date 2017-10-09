@@ -10,7 +10,7 @@ Un peu plus de 1,8 million d'*articles* (on ne parle pas des *blogues*) de 16 de
 
 Pour faire fonctionner les carnets Jupyter qui se trouvent dans ce répertoire, il faut d'abord aller chercher les données de base, un fichier de 656 Mo accessible ici: [**scraping-nettoye.csv**](https://drive.google.com/file/d/0B90qcYhVsMeYQ2FQbEt3YkFhTjg/view?usp=sharing) (sauf pour l'édition espagnole, dont les données sont incluses dans le fichier [**scraping-ES-2.csv**](https://github.com/jhroy/huffpost/blob/master/scraping-ES-2.csv).
 
-Il y a un carnet par pays
+Il y a un carnet par pays. Le tableau ci-dessous présente les résultats complets par pays, classés par date de fondation.
 
 | **édition**        | **date de fondation**           | **url**  |**articles**|**`HP_oui`**|**`HP_non`**|**`HP_inconnu`**| **taux d'originalité** |
 | ------------- |-------------|-----| -----:|-----:|-----:|-----:|-----:|
