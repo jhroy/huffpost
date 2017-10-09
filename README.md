@@ -14,7 +14,7 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 
 | **édition**        | **date de fondation**   |**articles**|**`HP_oui`**|**`HP_non`**|**`HP_inconnu`**| **taux d'originalité** |
 | ------------- |-------------| -----:|-----:|-----:|-----:|-----:|
-|[États-Unis](HuffPost-usa.ipynb), [site](http://www.huffingtonpost.com/)|2005-05-09|550&nbsp;955|250&nbsp;528|210&nbsp;226|90&nbsp;201|45,5 %|
+|[États-Unis](HuffPost-usa.ipynb), [site](http://www.huffingtonpost.com/)|2005-05-09|550&nbsp;955|250&nbsp;528|210&nbsp;226|90&nbsp;201|45,5%|
 |[Canada](HuffPost-can.ipynb), [site](http://www.huffingtonpost.ca/)|2011-05-26|265&nbsp;153|40&nbsp;809|222&nbsp;950|1&nbsp;394|15,4%|
 |[Royaume-Uni](HuffPost-uk.ipynb), [site](http://www.huffingtonpost.co.uk/)|2011-07-06|161&nbsp;263|118&nbsp;317|42&nbsp;757|189|73,4%|
 |[France](HuffPost-fr.ipynb), [site](http://www.huffingtonpost.fr/)|2012-01-23|54&nbsp;156|49&nbsp;815|4&nbsp;088|253|92,0%|
