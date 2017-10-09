@@ -32,4 +32,4 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 |[Mexique](HuffPost-mex.ipynb), [site](http://www.huffingtonpost.com.mx/)|2016-09-01|2&nbsp;168|1&nbsp;916|102|150|88,4%|
 |*Ensemble* | |*1&nbsp;826&nbsp;174*|*798&nbsp;327*|*923&nbsp;514*|*104&nbsp;333*|*43,7%*|
 
-###### 1 : Tous les articles publiés entre la fondation 
+###### 1 : Tous les articles accessibles et publiés entre la date de fondation et le 31 décembre 2016 ont été inclus dans cette étude, sauf dans le cas de l'édition américaine où la cueillette a commencé le 1<sup>er</sup> janvier 2011.
