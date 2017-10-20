@@ -3,11 +3,14 @@
 # Original reporting at the *HuffPost* (2011-2016)
 ### Study on the "originality rate" of the *HuffPost* and 15 of its international editions
 <hr>
-The bylines of more than 1.8 million _articles_ (*blogs* were excluded) published by 16 of the _HuffPost_'s 18 versions were scraped. Each byline was categorized thus:
+
+The bylines of more than 1.8 million *articles* (**_blogs_** were excluded) published by 16 of the _HuffPost_'s 18 versions were scraped.<br>Each byline was categorized thus:
+
 
 - `HP_yes` when the byline includes *"HuffPost"* or the name of an employee or freelancer, even if another media organization is mentioned.
 - `HP_no` when the byline attributes authorship exclusively to another media organization (press agency, website, newspaper, etc.).
 - `HP_unknown` when authorship cannot be established.
+
 
 The table below gives the rates per edition.<br>
 Links are to Jupyter notebooks in French.<br>
