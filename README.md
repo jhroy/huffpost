@@ -1,6 +1,9 @@
 ![Nouveau logo du HuffPost](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HuffPost.svg/320px-HuffPost.svg.png "Nouveau logo du HuffPost")
 
 # Étude sur le taux d'originalité de 16 éditions du *HuffPost* (2011-2016).
+[English version](README-en.md)
+<hr>
+
 
 Un peu plus de 1,8 million d'*articles*  (on ne parle pas des *blogues*) de 16 des 18 éditions du *HuffPost* ont été analysés avec [**pandas**](https://github.com/jhroy/tuto-pandas) pour voir qui signe ces articles. Chaque article a été placé dans trois catégories:
 
