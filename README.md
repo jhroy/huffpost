@@ -24,7 +24,7 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 |[Québec](HuffPost-qc.ipynb), [site](http://quebec.huffingtonpost.ca/)|2012-02-08|390&nbsp;231|44&nbsp;282|344&nbsp;510|1&nbsp;439|11,3%|
 |[Espagne](HuffPost-esp.ipynb), [site](http://www.huffingtonpost.es/)|2012-06-07|56&nbsp;348|48&nbsp;879|7&nbsp;381|88|86,7%|
 |[Italie](HuffPost-ita.ipynb), [site](http://www.huffingtonpost.it/)|2012-09-24|64&nbsp;880|53&nbsp;820|9&nbsp;944|1&nbsp;116|83,0%|
-|[Japon](HuffPost-jp.ipynb), [site](http://www.huffingtonpost.jp/)|2013-05-06|23&nbsp;708|16&nbsp;490|6&nbsp;865|353|69,6%|
+|[Japon](HuffPost-jap.ipynb), [site](http://www.huffingtonpost.jp/)|2013-05-06|23&nbsp;708|16&nbsp;490|6&nbsp;865|353|69,6%|
 |[Maghreb](HuffPost-mag.ipynb), [site](http://www.huffpostmaghreb.com/)|2013-06-25|28&nbsp;653|25&nbsp;200|3&nbsp;337|116|87,9%|
 |[Allemagne](HuffPost-all.ipynb), [site](http://www.huffingtonpost.de/)|2013-10-01|68&nbsp;733|31&nbsp;831|33&nbsp;445|3&nbsp;457|46,3%|
 |[Brésil](HuffPost-bra.ipynb), 	[site](http://www.huffpostbrasil.com/)|2014-01-29|20&nbsp;831|14&nbsp;543|5&nbsp;745|543|69,8%|
