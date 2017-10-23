@@ -22,7 +22,7 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 |[Royaume-Uni](HuffPost-uk.ipynb), [site](http://www.huffingtonpost.co.uk/)|2011-07-06|161&nbsp;263|118&nbsp;317|42&nbsp;757|189|73,4%|
 |[France](HuffPost-fr.ipynb), [site](http://www.huffingtonpost.fr/)|2012-01-23|54&nbsp;156|49&nbsp;815|4&nbsp;088|253|92,0%|
 |[Québec](HuffPost-qc.ipynb), [site](http://quebec.huffingtonpost.ca/)|2012-02-08|390&nbsp;231|44&nbsp;282|344&nbsp;510|1&nbsp;439|11,3%|
-|[Espagne](HuffPost-es.ipynb), [site](http://www.huffingtonpost.es/)|2012-06-07|56&nbsp;348|48&nbsp;879|7&nbsp;381|88|86,7%|
+|[Espagne](HuffPost-esp.ipynb), [site](http://www.huffingtonpost.es/)|2012-06-07|56&nbsp;348|48&nbsp;879|7&nbsp;381|88|86,7%|
 |[Italie](HuffPost-ita.ipynb), [site](http://www.huffingtonpost.it/)|2012-09-24|64&nbsp;880|53&nbsp;820|9&nbsp;944|1&nbsp;116|83,0%|
 |[Japon](HuffPost-jp.ipynb), [site](http://www.huffingtonpost.jp/)|2013-05-06|23&nbsp;708|16&nbsp;490|6&nbsp;865|353|69,6%|
 |[Maghreb](HuffPost-mag.ipynb), [site](http://www.huffpostmaghreb.com/)|2013-06-25|28&nbsp;653|25&nbsp;200|3&nbsp;337|116|87,9%|
