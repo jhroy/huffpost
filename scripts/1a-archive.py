@@ -46,7 +46,7 @@ for edition in editions:
 				genre = "Blogue"
 			else:
 				genre = "Inconnu"
-				iD = "Inconnu"
+				iD = "XXXXX-Inconnu"
 				
 			#Si l'élément archivé n'est pas un blogue, on l'enregistre
 			if genre != "Blogue":
