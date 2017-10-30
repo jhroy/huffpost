@@ -4,7 +4,7 @@
 ### Study on the "originality rate" of the *HuffPost* and 15 of its international editions
 <hr>
 
-The bylines of more than 1.8 million **_articles_** (*blogs* were excluded) published by 16 of the _HuffPost_'s 18 versions were scraped.<br>Each byline was categorized thus:
+The bylines of more than 1.8 million **_articles_** (*blogs* were excluded) published by 16 of the _HuffPost_'s 18 versions were scraped<sup>1</sup>.<br>Each byline was categorized thus:
 
 
 - `HP_yes` when the byline includes *"HuffPost"* or the name of an employee or freelancer, even if another media organization is mentioned.
@@ -18,7 +18,7 @@ One can access the raw data by downloading this csv file: [**scraping-nettoye.cs
 
 | **version**        | **launch date**   |**articles**|**`HP_yes`**|**`HP_no`**|**`HP_unknown`**| **originality rate** |
 | ------------- |-------------| -----:|-----:|-----:|-----:|-----:|
-|[US](HuffPost-usa.ipynb)<sup>1</sup>, [site](http://www.huffingtonpost.com/)|2005-05-09|550&nbsp;955|250&nbsp;528|210&nbsp;226|90&nbsp;201|45.5%|
+|[US](HuffPost-usa.ipynb)<sup>2</sup>, [site](http://www.huffingtonpost.com/)|2005-05-09|550&nbsp;955|250&nbsp;528|210&nbsp;226|90&nbsp;201|45.5%|
 |[Canada](HuffPost-can.ipynb), [site](http://www.huffingtonpost.ca/)|2011-05-26|265&nbsp;153|40&nbsp;809|222&nbsp;950|1&nbsp;394|15.4%|
 |[United Kingdom](HuffPost-uk.ipynb), [site](http://www.huffingtonpost.co.uk/)|2011-07-06|161&nbsp;263|118&nbsp;317|42&nbsp;757|189|73.4%|
 |[France](HuffPost-fr.ipynb), [site](http://www.huffingtonpost.fr/)|2012-01-23|54&nbsp;156|49&nbsp;815|4&nbsp;088|253|92.0%|
@@ -36,6 +36,6 @@ One can access the raw data by downloading this csv file: [**scraping-nettoye.cs
 |[Mexico](HuffPost-mex.ipynb), [site](http://www.huffingtonpost.com.mx/)|2016-09-01|2&nbsp;168|1&nbsp;916|102|150|88.4%|
 |*All* | |*1&nbsp;826&nbsp;174*|*798&nbsp;327*|*923&nbsp;514*|*104&nbsp;333*|*43.7%*|
 
-###### 1 : All articles available and findable online published between the launch date and Dec. 31, 2016, were included in this study, apart from the US edition where articles were included starting Jan. 1, 2011.
+###### 1 :[Some examples of the python scripts written for this project](/scripts).
 
-###### 2 :[Some examples of the python scripts written for this project](/scripts).
+###### 2 : All articles available and findable online published between the launch date and Dec. 31, 2016, were included in this study, apart from the US edition where articles were included starting Jan. 1, 2011.
