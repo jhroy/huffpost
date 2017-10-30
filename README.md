@@ -36,3 +36,5 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 |*Ensemble* | |*1&nbsp;826&nbsp;174*|*798&nbsp;327*|*923&nbsp;514*|*104&nbsp;333*|*43,7%*|
 
 ###### 1 : Tous les articles accessibles et publiés entre la date de fondation et le 31 décembre 2016 ont été inclus dans cette étude, sauf dans le cas de l'édition américaine où la cueillette a commencé le 1<sup>er</sup> janvier 2011.
+<hr>
+[Quelques exemples des scripts python utilisés pour réaliser ce projet](/scripts).
