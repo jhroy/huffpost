@@ -30,7 +30,7 @@ def goo(url):
 				genre = "Blogue"
 			else:
 				genre = "Inconnu"
-				iD = "Inconnu"
+				iD = "XXXXX-Inconnu"
 			if genre != "Blogue":
 
 				article = []
