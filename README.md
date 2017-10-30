@@ -37,4 +37,5 @@ Il y a un carnet par pays. Le tableau ci-dessous présente les résultats comple
 
 ###### 1 : Tous les articles accessibles et publiés entre la date de fondation et le 31 décembre 2016 ont été inclus dans cette étude, sauf dans le cas de l'édition américaine où la cueillette a commencé le 1<sup>er</sup> janvier 2011.
 <hr>
+
 [Quelques exemples des scripts python utilisés pour réaliser ce projet](/scripts).
