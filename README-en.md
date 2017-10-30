@@ -36,6 +36,6 @@ One can access the raw data by downloading this csv file: [**scraping-nettoye.cs
 |[Mexico](HuffPost-mex.ipynb), [site](http://www.huffingtonpost.com.mx/)|2016-09-01|2&nbsp;168|1&nbsp;916|102|150|88.4%|
 |*All* | |*1&nbsp;826&nbsp;174*|*798&nbsp;327*|*923&nbsp;514*|*104&nbsp;333*|*43.7%*|
 
-###### 1 :[Some examples of the python scripts written for this project](/scripts).
+###### 1 : [Some examples of the python scripts written for this project](/scripts).
 
 ###### 2 : All articles available and findable online published between the launch date and Dec. 31, 2016, were included in this study, apart from the US edition where articles were included starting Jan. 1, 2011.
