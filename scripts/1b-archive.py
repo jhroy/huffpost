@@ -6,7 +6,6 @@ import requests
 import datetime
 from time import sleep
 from googleapiclient.discovery import build
-from bs4 import BeautifulSoup
 
 cle = "CLÉ APIs GOOGLE"
 cse = "CODE GOOGLE CUSTOM SEARCH"
