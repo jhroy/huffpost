@@ -36,15 +36,30 @@ for edition in editions:
 		articles = page.find("div", class_="archive").find_all("li")
 
 		for article in articles:
-			art = []
-			art.append(edition[0])
-			art.append(date.year)
-			art.append(date.month)
-			art.append(date.day)
-			art.append(article.a["href"])
-			art.append(article.a.text.strip())
-			print(art)
+			url = article.a["href"]
+			if "_n_" in url:
+				genre = "Nouvelles"
+				p1 = url.find("_n_")
+				p2 = url.find(".htm")
+				iD = url[p1+3:p2]
+			elif "_b_" in url:
+				genre = "Blogue"
+			else:
+				genre = "Inconnu"
+				iD = "Inconnu"
+		#Si l'élément archivé n'est pas un blogue, on l'enregistre
+			if genre != "Blogue":
+				art = []
+				art.append(iD)
+				art.append(edition[0])
+				art.append(date.year)
+				art.append(date.month)
+				art.append(date.day)
+				art.append(url)
+				art.append(article.a.text.strip())
+				art.append(genre)
+				print(art)
 
-			yo = open(fichier,"a")
-			yolo = csv.writer(yo)
-			yolo.writerow(art)
+				yo = open(fichier,"a")
+				yolo = csv.writer(yo)
+				yolo.writerow(art)
