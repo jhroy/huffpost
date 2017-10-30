@@ -47,7 +47,8 @@ for edition in editions:
 			else:
 				genre = "Inconnu"
 				iD = "Inconnu"
-		#Si l'élément archivé n'est pas un blogue, on l'enregistre
+				
+			#Si l'élément archivé n'est pas un blogue, on l'enregistre
 			if genre != "Blogue":
 				art = []
 				art.append(iD)
