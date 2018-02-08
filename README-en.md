@@ -2,6 +2,8 @@
 
 # Original reporting at the *HuffPost* (2011-2016)
 ### Study on the "originality rate" of the *HuffPost* and 15 of its international editions
+
+As seen in the [European Journalism Observatory](https://fr.ejo.ch/deontologie-qualite/agregation-originalite-huffpost-churnalism) (in French) 
 <hr>
 
 The bylines of more than 1.8 million **_articles_** (*blogs* were excluded) published by 16 of the _HuffPost_'s 18 versions were scraped<sup>1</sup>.<br>Each byline was categorized thus:
