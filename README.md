@@ -1,7 +1,7 @@
 ![Nouveau logo du HuffPost](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HuffPost.svg/320px-HuffPost.svg.png "Nouveau logo du HuffPost")
 
 # Étude sur le taux d'originalité de 16 éditions du *HuffPost* (2011-2016).
-[English version](README-en.md)
+[Article dans l'*Observatoire européen du journalisme*](https://fr.ejo.ch/deontologie-qualite/agregation-originalite-huffpost-churnalism) | [English version](README-en.md)
 <hr>
 
 
