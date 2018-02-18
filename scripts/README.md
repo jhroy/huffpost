@@ -15,4 +15,4 @@
 
 #### Tableau des éditions du *HuffPost*
 
-[**editions.csv**](editions.csv)
+* [**editions.csv**](editions.csv)
